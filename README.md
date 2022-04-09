@@ -1,7 +1,7 @@
 # Hello there i'm Anas 👋
 <style type = "text/css">
 #right{
-  size:30%;
+  size:80%;
   }
 </style>
 
