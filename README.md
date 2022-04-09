@@ -1,7 +1,7 @@
 # Hello there i'm Anas 👋
 <style type = "text/css">
 #right{
-  size:80%;
+      border-radius: 30%;
   }
 </style>
 
